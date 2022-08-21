@@ -1,0 +1,15 @@
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe.config
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.exe
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\bin\Debug\SortedListApp.pdb
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.AssemblyReference.cache
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\MainWindow.g.cs
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\App.g.cs
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.cache
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp_MarkupCompile.lref
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\MainWindow.baml
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.g.resources
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.Properties.Resources.resources
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.GenerateResource.cache
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.csproj.CoreCompileInputs.cache
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.exe
+C:\Users\BabbyPai\source\repos\SortedListApp\SortedListApp\obj\Debug\SortedListApp.pdb
